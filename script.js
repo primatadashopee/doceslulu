@@ -44,7 +44,7 @@ async function carregarDados() {
 
       // Cria botão para WhatsApp
       const botao = document.createElement('a');
-      botao.href = `https://wa.me/5599999999999?text=Olá! Tenho interesse 
+      botao.href = `https://wa.me/5586995633313?text=Olá! Tenho interesse 
       no curso: ${encodeURIComponent(nomeCurso)}`;
       botao.target = '_blank';
       botao.className = 'mt-4 inline-block bg-pink-500 text-white font-semibold py-2 px-4 rounded hover:bg-pink-900';
